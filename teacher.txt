@@ -1,0 +1,6 @@
+1234,password,1234,Rizwan,cs,m,phd,fsd,oop,mon,8:45,tue,8:45,wed,9:45,thu,8:45,fri,12:10,
+1111,password,1111,ismail,cs,m,bs,looneywala,ap,mon,8:45,tue,9:45,wed,12:10,thu,8:45,thu,3:15,
+1235,password,9999,jamshed,ai,m,fsc,india,ps,mon,8:45,tue,8:45,wed,9:45,thu,10:15,fri,1:10,
+3333,password,3333,uzzi,cs,m,ms,peshawar,ap,mon,8:45,tue,8:45,wed,9:15,thu,10:10,fri,12:15,
+4444,password,4444,rao,cs,f,matric,iran,cp,mon,8:45,tue,1:10,wed,3:15,thu,3:15,fri,1:45,
+9999,password,9999,name,cs,m,phd,fsd,oop,mon,8:45,tue,2,2,2,2,2,2,2,
