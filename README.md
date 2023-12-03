@@ -43,15 +43,8 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 ## Contributing
 
-Contributions are welcome! If you'd like to contribute to the project, please follow these steps:
-
-1. Fork the project.
-2. Create a new branch (`git checkout -b feature/your-feature`).
-3. Commit your changes (`git commit -m 'Add some feature'`).
-4. Push to the branch (`git push origin feature/your-feature`).
-5. Open a pull request.
+Contributions are welcome! 
 
 ## Acknowledgments
 
-- Developed by M.Usman Anwar
-- . This project was created to test my abilities in object-oriented programming.
+- Developed by M.Usman Anwar. This project was created to test my abilities in object-oriented programming.
